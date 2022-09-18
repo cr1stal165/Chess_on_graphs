@@ -1,0 +1,66 @@
+10:43:33.176 INFO   chess.board.Board - Доска проинициализированна успешно!.
+10:43:33.208 INFO   chess.functional.Field - Фигура R была поставлена на клетку: A1
+10:43:33.211 INFO   chess.functional.Field - Фигура Knt была поставлена на клетку: B1
+10:43:33.214 INFO   chess.functional.Field - Фигура B была поставлена на клетку: C1
+10:43:33.218 INFO   chess.functional.Field - Фигура Q была поставлена на клетку: D1
+10:43:33.223 INFO   chess.functional.Field - Фигура K была поставлена на клетку: E1
+10:43:33.224 INFO   chess.functional.Field - Фигура B была поставлена на клетку: F1
+10:43:33.224 INFO   chess.functional.Field - Фигура Knt была поставлена на клетку: G1
+10:43:33.224 INFO   chess.functional.Field - Фигура R была поставлена на клетку: H1
+10:43:33.228 INFO   chess.functional.Field - Фигура P была поставлена на клетку: A2
+10:43:33.228 INFO   chess.functional.Field - Фигура P была поставлена на клетку: B2
+10:43:33.228 INFO   chess.functional.Field - Фигура P была поставлена на клетку: C2
+10:43:33.228 INFO   chess.functional.Field - Фигура P была поставлена на клетку: D2
+10:43:33.228 INFO   chess.functional.Field - Фигура P была поставлена на клетку: E2
+10:43:33.229 INFO   chess.functional.Field - Фигура P была поставлена на клетку: F2
+10:43:33.229 INFO   chess.functional.Field - Фигура P была поставлена на клетку: G2
+10:43:33.229 INFO   chess.functional.Field - Фигура P была поставлена на клетку: H2
+10:43:33.232 INFO   chess.functional.Field - Клетка A3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка B3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка C3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка D3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка E3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка F3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка G3 пуста
+10:43:33.233 INFO   chess.functional.Field - Клетка H3 пуста
+10:43:33.234 INFO   chess.functional.Field - Клетка A4 пуста
+10:43:33.234 INFO   chess.functional.Field - Клетка B4 пуста
+10:43:33.234 INFO   chess.functional.Field - Клетка C4 пуста
+10:43:33.234 INFO   chess.functional.Field - Клетка D4 пуста
+10:43:33.234 INFO   chess.functional.Field - Клетка E4 пуста
+10:43:33.235 INFO   chess.functional.Field - Клетка F4 пуста
+10:43:33.235 INFO   chess.functional.Field - Клетка G4 пуста
+10:43:33.235 INFO   chess.functional.Field - Клетка H4 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка A5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка B5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка C5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка D5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка E5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка F5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка G5 пуста
+10:43:33.236 INFO   chess.functional.Field - Клетка H5 пуста
+10:43:33.237 INFO   chess.functional.Field - Клетка A6 пуста
+10:43:33.237 INFO   chess.functional.Field - Клетка B6 пуста
+10:43:33.237 INFO   chess.functional.Field - Клетка C6 пуста
+10:43:33.237 INFO   chess.functional.Field - Клетка D6 пуста
+10:43:33.237 INFO   chess.functional.Field - Клетка E6 пуста
+10:43:33.237 INFO   chess.functional.Field - Клетка F6 пуста
+10:43:33.238 INFO   chess.functional.Field - Клетка G6 пуста
+10:43:33.238 INFO   chess.functional.Field - Клетка H6 пуста
+10:43:33.241 INFO   chess.functional.Field - Фигура P была поставлена на клетку: A7
+10:43:33.241 INFO   chess.functional.Field - Фигура P была поставлена на клетку: B7
+10:43:33.241 INFO   chess.functional.Field - Фигура P была поставлена на клетку: C7
+10:43:33.241 INFO   chess.functional.Field - Фигура P была поставлена на клетку: D7
+10:43:33.242 INFO   chess.functional.Field - Фигура P была поставлена на клетку: E7
+10:43:33.242 INFO   chess.functional.Field - Фигура P была поставлена на клетку: F7
+10:43:33.242 INFO   chess.functional.Field - Фигура P была поставлена на клетку: G7
+10:43:33.242 INFO   chess.functional.Field - Фигура P была поставлена на клетку: H7
+10:43:33.244 INFO   chess.functional.Field - Фигура R была поставлена на клетку: A8
+10:43:33.246 INFO   chess.functional.Field - Фигура Knt была поставлена на клетку: B8
+10:43:33.248 INFO   chess.functional.Field - Фигура B была поставлена на клетку: C8
+10:43:33.250 INFO   chess.functional.Field - Фигура Q была поставлена на клетку: D8
+10:43:33.251 INFO   chess.functional.Field - Фигура K была поставлена на клетку: E8
+10:43:33.251 INFO   chess.functional.Field - Фигура B была поставлена на клетку: F8
+10:43:33.252 INFO   chess.functional.Field - Фигура Knt была поставлена на клетку: G8
+10:43:33.252 INFO   chess.functional.Field - Фигура R была поставлена на клетку: H8
+10:43:48.003 INFO   chess.board.Board - E7
